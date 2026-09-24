@@ -60,6 +60,7 @@ Data cleaning, fixing and joining of the two sources are documented in `data_pre
     ├── istat_situas_traffic_accidents_data.csv                          # cleaned, joined input (long format)
     ├── istat_situa_traffic_accidents_2001_2024_metrics.csv              # yearly metrics, all municipalities
     ├── istat_situa_traffic_accidents_2021_2024_metrics_riskscore.csv    # 2021–2024 metrics + risk scores
+    ├── situas/                                                          # SITUAS' data folder
     └── results/
         ├── top_20_frequency.csv
         ├── top_20_severity.csv
